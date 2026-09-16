@@ -3,7 +3,7 @@
 
     class Student
     {
-        public string $name = "Иван";
+        public string $name = ;
         public int $age = 18;
     }
 ?>
